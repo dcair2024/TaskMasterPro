@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskMasterPro (v3.0)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+634e5d4dea6876774985b2d470374318fbb24d8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskMasterPro (v3.0)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskMasterPro (v3.0)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
